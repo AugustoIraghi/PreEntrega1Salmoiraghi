@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-family: 'Cinzel Decorative', cursive;
+    color: black;
+    font-size: 2em;
+    padding-top: 10px;
+}
+.container{
+    display: flex;
+    align-items: center;
+    margin: 20px;
+}
+.home{
+    margin-right: auto;
+}
+.homeA{
+    display: flex;
+    align-items: center;
+}
+.homeImg{
+    width: 50px;
+}
